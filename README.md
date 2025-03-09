@@ -1,5 +1,5 @@
 # Python Course Kaggle
-Python Course on Kaggle.com
+Python Course on [Kaggle](https://www.kaggle.com/).
 
 The course notebooks have been uploaded to this repository.
 
